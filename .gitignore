@@ -22,7 +22,7 @@ build/
 *.ipr
 *.iws
 *.idea
-
+*.rebel
 # Test files
 
 *-uploaded
